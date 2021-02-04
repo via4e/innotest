@@ -1,0 +1,340 @@
+{
+    "children": [
+        {
+            "id": 1,
+            "name": "Major Red",
+            "condition": false,
+            "email": "major1@inno.com",
+            "Adresses": "RT, Innopolis, Main Street, 1-1",
+            "Action": ["edit"],
+            "children": [
+                {
+                    "id": 11,
+                    "name": "Minor One Red",
+                    "condition": false,
+                    "email": "major1@inno.com",
+                    "Adresses": "RT, Innopolis, Main Street, 1-1",
+                    "Action": ["edit"],
+                    "children": [
+                        {
+                            "id": 111,
+                            "name": "Minor One Red Leaf One",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 112,
+                            "name": "Minor One Red Leaf Two",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 113,
+                            "name": "Minor One Red Leaf Three",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        }              
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Minor Two Red",
+                    "condition": false,
+                    "email": "major1@inno.com",
+                    "Adresses": "RT, Innopolis, Main Street, 1-1",
+                    "Action": ["edit"],
+                    "children": [
+                        {
+                            "id": 121,
+                            "name": "Minor Two Red Leaf One",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 122,
+                            "name": "Minor Two Red Leaf Two",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 123,
+                            "name": "Minor Two Red Leaf Three",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        }              
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Minor Three Red",
+                    "condition": false,
+                    "email": "major1@inno.com",
+                    "Adresses": "RT, Innopolis, Main Street, 1-1",
+                    "Action": ["edit"],
+                    "children": [
+                        {
+                            "id": 131,
+                            "name": "Minor Three _ Red Leaf _ One",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 132,
+                            "name": "Minor Three _ Red Leaf _ Two",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 133,
+                            "name": "Minor Three _ Red Leaf _ Three",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        }              
+                    ]
+                }                                
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Major Green",
+            "condition": false,
+            "email": "major1@inno.com",
+            "Adresses": "RT, Innopolis, University Street, 21-7",
+            "Action": ["edit"],
+            "children": [
+                {
+                    "id": 21,
+                    "name": "Minor One Green",
+                    "condition": false,
+                    "email": "major1@inno.com",
+                    "Adresses": "RT, Innopolis, Main Street, 1-1",
+                    "Action": ["edit"],
+                    "children": [
+                        {
+                            "id": 211,
+                            "name": "Minor One _ Green Leaf _ One",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 212,
+                            "name": "Minor One _ Green Leaf _ Two",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 213,
+                            "name": "Minor One _ Green Leaf _ Three",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        }              
+                    ]
+                },
+                {
+                    "id": 22,
+                    "name": "Minor Two Green",
+                    "condition": false,
+                    "email": "major1@inno.com",
+                    "Adresses": "RT, Innopolis, Main Street, 1-1",
+                    "Action": ["edit"],
+                    "children": [
+                        {
+                            "id": 221,
+                            "name": "Minor Two _ Green Leaf _ One",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 222,
+                            "name": "Minor Two _ Green Leaf _ Two",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 223,
+                            "name": "Minor Two _ Green Leaf _ Three",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        }              
+                    ]
+                },
+                {
+                    "id": 23,
+                    "name": "Minor Three Green",
+                    "condition": false,
+                    "email": "major1@inno.com",
+                    "Adresses": "RT, Innopolis, Main Street, 1-1",
+                    "Action": ["edit"],
+                    "children": [
+                        {
+                            "id": 231,
+                            "name": "Minor Three _ Green Leaf _ One",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 232,
+                            "name": "Minor Three _ Green Leaf _ Two",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 233,
+                            "name": "Minor Three _ Green Leaf _ Three",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        }              
+                    ]
+                }                                
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Major Blue",
+            "condition": false,
+            "email": "major1@inno.com",
+            "Adresses": "RT, Innopolis, Spring Avenue, 4-3",
+            "Action": ["edit"],
+            "children": [
+                {
+                    "id": 31,
+                    "name": "Minor One Blue",
+                    "condition": false,
+                    "email": "major1@inno.com",
+                    "Adresses": "RT, Innopolis, Main Street, 1-1",
+                    "Action": ["edit"],
+                    "children": [
+                        {
+                            "id": 311,
+                            "name": "Minor One _ Blue Leaf _ One",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 312,
+                            "name": "Minor One _ Blue Leaf _ Two",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 313,
+                            "name": "Minor One _ Blue Leaf _ Three",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        }              
+                    ]
+                },
+                {
+                    "id": 32,
+                    "name": "Minor Two Blue",
+                    "condition": false,
+                    "email": "major1@inno.com",
+                    "Adresses": "RT, Innopolis, Main Street, 1-1",
+                    "Action": ["edit"],
+                    "children": [
+                        {
+                            "id": 321,
+                            "name": "Minor Two _ Blue Leaf _ One",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 322,
+                            "name": "Minor Two _ Blue Leaf _ Two",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 323,
+                            "name": "Minor Two _ Blue Leaf _ Three",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        }              
+                    ]
+                },
+                {
+                    "id": 33,
+                    "name": "Minor Three Blue",
+                    "condition": false,
+                    "email": "major1@inno.com",
+                    "Adresses": "RT, Innopolis, Main Street, 1-1",
+                    "Action": ["edit"],
+                    "children": [
+                        {
+                            "id": 331,
+                            "name": "Minor Three _ Blue Leaf _ One",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 332,
+                            "name": "Minor Three _ Blue Leaf _ Two",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        },
+                        {
+                            "id": 333,
+                            "name": "Minor Three _ Blue Leaf _ Three",
+                            "condition": false,
+                            "email": "major1@inno.com",
+                            "Adresses": "RT, Innopolis, Main Street, 1-1",
+                            "Action": ["edit"]
+                        }              
+                    ]
+                }                                
+            ]
+        }        
+    ]
+}

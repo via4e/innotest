@@ -1,0 +1,8 @@
+{
+    "version": "27.12.2020",
+    "theme": "day",
+    "dev": false,
+    "serverUrl": "https://server2.rndnet.net:5000",
+    "startGroup": 8,
+    "timeout": 90000
+}
