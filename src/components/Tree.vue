@@ -4,15 +4,18 @@
       <v-col :cols="12">
         <v-btn @click="back">Return to Table Page</v-btn>
       </v-col>
-      <v-col :cols="12"> </v-col>
     </v-row>
-    <v-treeview :items="test"></v-treeview>
+
+    <TreeView :element="current" />
+
   </div>
 </template>
 
 <script>
+import TreeView from './View.vue'
 export default {
   name: "Tree",
+  components: { TreeView },
   mounted() {
     if (this.db && this.db.children.length && this.current && !this.current.id)
       this.setCurrent();

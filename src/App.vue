@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import db from './store/db2.json'
+import db from './store/db.json'
 export default {
   name: 'App',
   created () {
